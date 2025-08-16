@@ -17,15 +17,15 @@ export default function Frame({
         className="animated"
         src={`/${frame.id}.gif`}
         alt={frame.desc}
-        width={600}
-        height={400}
+        width={524}
+        height={350}
         unoptimized />
       <Image
         className="static"
         src={`/${frame.id}.png`}
         alt={frame.desc}
-        width={600}
-        height={400}
+        width={524}
+        height={350}
         unoptimized />
     </Link>
   )

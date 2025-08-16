@@ -77,12 +77,12 @@ body {
 
 .frame {
   width: 100%;
-  aspect-ratio: 524/350;
-  background-size: cover;
-  background-position: center;
   cursor: pointer;
 
   >img {
+    width: 100%;
+    height: auto;
+    aspect-ratio: 240/135;
     border-radius: 15px;
 
     &.static {

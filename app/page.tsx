@@ -30,8 +30,8 @@ export default function Home() {
             <Image
               src="/logo.gif"
               alt="Giro Motion Logo"
-              width={140}
-              height={68}
+              width={240}
+              height={135}
               unoptimized />
           </Link>
         </div>
@@ -85,7 +85,7 @@ export default function Home() {
                 emotion. </span
               ><br />
               <span className="left-gap">
-                It’s more than moving things, it&apos;s about making them mean
+                It&apos;s more than moving things, it&apos;s about making them mean
                 something. </span
               ><br /><br />
               <a href="about.html">
@@ -207,7 +207,7 @@ export default function Home() {
           </div>
 
           <div className="footer-right">
-            <h3>Let’s connect</h3>
+            <h3>Let&apos;s connect</h3>
             <p>+55 51 99840-4398<br />igor@giromotion.com</p>
           </div>
         </div>
