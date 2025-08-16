@@ -30,8 +30,8 @@ export default function Home() {
             <Image
               src="/logo.gif"
               alt="Giro Motion Logo"
-              width={240}
-              height={135}
+              width={759}
+              height={368}
               unoptimized />
           </Link>
         </div>
